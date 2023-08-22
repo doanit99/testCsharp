@@ -1,0 +1,15 @@
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\bin\Debug\net6.0\TinhThue.exe
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\bin\Debug\net6.0\TinhThue.deps.json
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\bin\Debug\net6.0\TinhThue.runtimeconfig.json
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\bin\Debug\net6.0\TinhThue.dll
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\bin\Debug\net6.0\TinhThue.pdb
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.csproj.AssemblyReference.cache
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.AssemblyInfoInputs.cache
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.AssemblyInfo.cs
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.csproj.CoreCompileInputs.cache
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.dll
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\refint\TinhThue.dll
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.pdb
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\TinhThue.genruntimeconfig.cache
+C:\Users\Doan IT\Desktop\TinhThue\TinhThue\obj\Debug\net6.0\ref\TinhThue.dll
